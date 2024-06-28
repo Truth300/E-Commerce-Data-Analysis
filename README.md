@@ -1,2 +1,2 @@
-# E-Commerce-Data-Analysis
-This Repository contains the Dataset of E-Commerce which has been Analysis with Python,Pandas,Matlibplot,Seaborn...
+# Hi, I'm Dennis Nyaaba
+Data Science Student of University of Mines and Technology
