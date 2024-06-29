@@ -34,6 +34,6 @@ The dummy dataset contains information on 1000 products across different categor
 <a href="https://twitter.com/@Truth300" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="@Truth300" /></a>
 </p>
 <p align="left">
-<a href="https://www.whatsapp.com/in/wa.me/+233594948955-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img src="https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=green" alt="https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=green"  /></a>
+<a href="https://www.whatsapp.com/in/wa.me/+233594948955" target="blank"><img src="https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=green" alt="https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=green"  /></a>
 </p>
 
