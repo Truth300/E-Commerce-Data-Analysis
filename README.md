@@ -1,5 +1,6 @@
 # Hi, I'm Dennis Nyaaba
-Data Science Student of University of Mines and Technology and this is my Analysis on E-commerce
+Data Science Student at University of Mines and Technology (Tarkwa-GHANA)
+
 
 
 
