@@ -1,8 +1,7 @@
 # Hi, I'm Dennis Nyaaba
 Data Science Student at University of Mines and Technology (Tarkwa-GHANA)
 
-![Google-Colab-Studyopedia.png](https://github.com/Truth300/Ecommerce-Data-Analysis/blob/main/Google-Colab-Studyopedia.png)
-![download.png](https://github.com/Truth300/Ecommerce-Data-Analysis/blob/main/download.png)
+
 
 ## Exploring E-commerce Trends: A Guide to Leveraging Dummy Dataset
 
