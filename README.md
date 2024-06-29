@@ -1,5 +1,8 @@
 # Hi, I'm Dennis Nyaaba
 Data Science Student at University of Mines and Technology (Tarkwa-GHANA)
+<p align="center">
+    <!--     You can add your logo in the _src_ below -->
+    <img src="https://www.amug.com/wp-content/uploads/2016/09/https://github.com/Truth300/truth_data/blob/main/IMG-20230808-WA0012.jpg-300x106.png" />
 
 
 
