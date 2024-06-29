@@ -16,6 +16,7 @@ The dummy dataset contains information on 1000 products across different categor
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&color=white)
+![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=Jupyternotebook&color=orange)
 
 
 
