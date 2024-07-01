@@ -18,7 +18,15 @@ The dummy dataset contains information on 1000 products across different categor
 
 ![](https://github.com/Truth300/Ecommerce-Data-Analysis/blob/main/Screenshot_1-7-2024_184713_www.kaggle.com.jpeg)
 
-
+# LOAD THE REQUIRED LABERIES
+``` python
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import warnings
+warnings.simplefilter(action='ignore', category='FutureWarning')
+```
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=61DAFB)
