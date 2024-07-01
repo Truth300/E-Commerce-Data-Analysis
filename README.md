@@ -16,6 +16,9 @@ In the world of e-commerce, data is a powerful asset that can be leveraged to un
 Dataset Overview:
 The dummy dataset contains information on 1000 products across different categories such as electronics, clothing, home & kitchen, books, toys & games, and more. Each product is associated with attributes such as price, rating, number of reviews, stock quantity, discounts, sales, and date added to inventory. This comprehensive dataset provides a rich source of information for analysis and exploration.
 
+![](https://github.com/Truth300/Ecommerce-Data-Analysis/blob/main/Screenshot_1-7-2024_184713_www.kaggle.com.jpeg)
+
+
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=61DAFB)
